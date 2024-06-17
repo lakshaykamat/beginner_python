@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,CorrectIndex
+What does CSS stand for in web development?,Cascading Style Sheet,Computer Style Sheet,Colorful Style Sheet,Creative Style Sheet,0
+Which programming language is commonly used for developing mobile applications?,Java,Python,Swift,C++,2
+In web development what does API stand for?,Application Programming Interface,Advanced Programming Interface,Automated Programming Interface,Application Processing Interface,0
+Which version control system is widely used in software development?,Git,SVN,Mercurial,Perforce,0
+What is the purpose of the 'npm' command in Node.js?,Node Package Manager,Node Program Manager,Node Project Manager,Node Package Management,0
+Which database management system is known for its scalability and high performance?,MongoDB,SQLite,MySQL,PostgreSQL,3
+What does HTML stand for in web development?,Hypertext Markup Language,Hyperlink and Text Markup Language,High-Level Text Markup Language,Home Tool Markup Language,0
+Which programming language is often used for data analysis and machine learning?,Python,Ruby,Java,JavaScript,0
+What is the primary function of the 'grep' command in Unix-like operating systems?,Search and filter text,Copy files,Create directories,Compile code,0
+Which popular version control platform is used for hosting open-source software projects?,GitHub,Bitbucket,SourceForge,GitLab,0
